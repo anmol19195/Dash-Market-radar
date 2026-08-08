@@ -1,0 +1,3 @@
+cd dash-radar-deploy
+git remote add origin https://github.com/anmol19195/Dash-Market-radar.git
+git push -u origin main
